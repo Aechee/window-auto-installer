@@ -1,4 +1,4 @@
-# window-auto-installer
+# QGIS-MySQL-Desktop-Auto installer
 This repository contains code for auto installation of multiple softwares, without any user interference.
 
 
